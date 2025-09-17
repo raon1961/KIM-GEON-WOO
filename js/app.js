@@ -31,7 +31,7 @@ const members = [
   },
   { 
     id: 4, 
-    name: "崔立于", 
+    name: "あおやぎ まさと", 
     profileImgs: [
       "images/mst7.jpeg", 
       "images/mst8.jpeg"
