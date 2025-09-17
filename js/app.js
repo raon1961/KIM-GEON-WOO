@@ -7,7 +7,7 @@ const members = [
       "images/mst2.jpeg"
     ], 
     detailImg: "images/mst-pro1.jpeg", 
-    bio: "사토가 생각한 사토의 이미지는 차갑게 생긴 바보." 
+    bio: "사토가 생각한 사토의 이미지는 내 생각보다 귀여운 듯" 
   },
   { 
     id: 2, 
@@ -17,7 +17,7 @@ const members = [
       "images/mst4.jpeg"
     ], 
     detailImg: "images/mst-pro2.jpeg", 
-    bio: "사토가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    bio: "사토가 연습하며 생긴 습관은 스트레칭, 표정연습, 연습일지 쓰기" 
   },
   { 
     id: 3, 
@@ -27,7 +27,7 @@ const members = [
       "images/mst6.jpeg"
     ], 
     detailImg: "images/mst-pro3.jpeg", 
-    bio: "사토가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    bio: "사토가 도전하고 싶은 무대 컨셉은 sexy 컨셉, 열정 컨셉, 귀여운 컨셉" 
   },
   { 
     id: 4, 
@@ -37,7 +37,7 @@ const members = [
       "images/mst8.jpeg"
     ], 
     detailImg: "images/mst-pro4.jpeg", 
-    bio: "사토의 최대 강점은 얼굴!" 
+    bio: "사토의 최대 강점은 너무너무해피마사토" 
   },
   { 
     id: 5, 
@@ -47,7 +47,7 @@ const members = [
       "images/mst10.jpeg"
     ], 
     detailImg: "images/mst-pro5.jpeg", 
-    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
+    bio: "한순간도 놓치지 않고 무대 위에서 모든 걸 불태우겠습니다!" 
   },
   { 
     id: 6, 
@@ -57,37 +57,37 @@ const members = [
       "images/mst12.jpeg"
     ], 
     detailImg: "images/mst-pro6.jpeg", 
-    bio: "과거 지원서 쓰던 사토에게 한마디 잘 될거니까 그냥 하자!" 
+    bio: "과거 지원서 쓰던 사토에게 한마디 마사토 지금 많은 사람과 만나서 성장 할고 있어!! 너가 생각보다 알려준 사람도 응원해준 사람도 있어!" 
   },
   { 
     id: 7, 
-    name: "#순간콜렉터", 
+    name: "#마술사토", 
     profileImgs: [
       "images/mst13.jpeg", 
       "images/mst14.jpeg"
     ], 
     detailImg: "images/mst-pro7.jpeg", 
-    bio: "지금 사토에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    bio: "지금 사토에게 힘이 되는 한마디는 응원해주신 모든 사람 위해 끝까지 한게까지 열심히 노력하자!" 
   },
   { 
     id: 8, 
-    name: "#미대오빠", 
+    name: "#탁구사토", 
     profileImgs: [
       "images/mst15.jpeg", 
       "images/mst16.jpeg"
     ], 
     detailImg: "images/mst-pro8.jpeg", 
-    bio: "미래 파이널을 앞둔 사토에게 한마디 이번에도 잘 할 수 있어!" 
+    bio: "미래 파이널을 앞둔 사토에게 한마디 그대로 데뷔하고 여러 사람한테 감사를 전달해야돼 잘 할 수 있어 마사토" 
   },
   { 
     id: 9, 
-    name: "#버니립우", 
+    name: "#핑크사토", 
     profileImgs: [
       "images/mst17.jpeg", 
       "images/mst18.jpeg"
     ], 
     detailImg: "images/mst-pro9.jpeg", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    bio: "모두의 심장이 뜨거워지도록 열정과 성실함을 보여드리겠습니다!" 
   }
 ];
 
