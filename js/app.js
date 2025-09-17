@@ -51,42 +51,42 @@ const members = [
   },
   { 
     id: 6, 
-    name: "CHUEI LI YU", 
+    name: "MASATO", 
     profileImgs: [
-      "images/liyu34.jpeg", 
-      "images/liyu35.jpeg"
+      "images/mst11.jpeg", 
+      "images/mst12.jpeg"
     ], 
-    detailImg: "images/liyu-pro6.jpeg", 
-    bio: "과거 지원서 쓰던 립우에게 한마디 잘 될거니까 그냥 하자!" 
+    detailImg: "images/mst-pro6.jpeg", 
+    bio: "과거 지원서 쓰던 사토에게 한마디 잘 될거니까 그냥 하자!" 
   },
   { 
     id: 7, 
     name: "#순간콜렉터", 
     profileImgs: [
-      "images/liyu46.jpeg", 
-      "images/liyu47.jpeg"
+      "images/mst13.jpeg", 
+      "images/mst14.jpeg"
     ], 
-    detailImg: "images/liyu-pro7.jpeg", 
-    bio: "지금 립우에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    detailImg: "images/mst-pro7.jpeg", 
+    bio: "지금 사토에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
   },
   { 
     id: 8, 
     name: "#미대오빠", 
     profileImgs: [
-      "images/liyu5.jpeg", 
-      "images/liyu6.jpeg"
+      "images/mst15.jpeg", 
+      "images/mst16.jpeg"
     ], 
-    detailImg: "images/liyu-pro8.jpeg", 
-    bio: "미래 파이널을 앞둔 립우에게 한마디 이번에도 잘 할 수 있어!" 
+    detailImg: "images/mst-pro8.jpeg", 
+    bio: "미래 파이널을 앞둔 사토에게 한마디 이번에도 잘 할 수 있어!" 
   },
   { 
     id: 9, 
     name: "#버니립우", 
     profileImgs: [
-      "images/liyu10.jpeg", 
-      "images/liyu11.jpeg"
+      "images/mst17.jpeg", 
+      "images/mst18.jpeg"
     ], 
-    detailImg: "images/liyu-pro9.jpeg", 
+    detailImg: "images/mst-pro9.jpeg", 
     bio: "베스트 초이스 리부초이 놓치지 마세요!" 
   }
 ];
@@ -174,7 +174,7 @@ function App() {
     React.createElement("h1", {
       className: "text-2xl sm:text-3xl font-bold mb-6 fixed top-4 left-4 z-50",
       style: { fontFamily: "Sequel100Black, sans-serif" }
-    }, "CHUEI LI YU"),
+    }, "MASATO"),
 
     // 카드 그리드
     React.createElement(
