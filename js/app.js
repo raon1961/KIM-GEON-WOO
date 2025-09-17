@@ -3,52 +3,50 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/liyu23.jpeg", 
-      "images/liyu24.jpeg"
+      "images/mst1.jpeg", 
+      "images/mst2.jpeg"
     ], 
-    detailImg: "images/liyu-pro1.gif", 
-    bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
+    detailImg: "images/mst-pro1.jpeg", 
+    bio: "사토가 생각한 사토의 이미지는 차갑게 생긴 바보." 
   },
   { 
     id: 2, 
-    name: "CHUEI LI YU'S", 
+    name: "MASATO'S", 
     profileImgs: [
-      "images/liyu12.jpeg", 
-      "images/liyu13.jpeg", 
-      "images/liyu14.jpeg"
+      "images/mst3.jpeg", 
+      "images/mst4.jpeg"
     ], 
-    detailImg: "images/liyu-pro2.jpeg", 
-    bio: "립우가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    detailImg: "images/mst-pro2.jpeg", 
+    bio: "사토가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
   },
   { 
     id: 3, 
     name: "DEBUT", 
     profileImgs: [
-      "images/liyu28.jpeg", 
-      "images/liyu29.jpeg"
+      "images/mst5.jpeg", 
+      "images/mst6.jpeg"
     ], 
-    detailImg: "images/liyu-pro3.jpeg", 
-    bio: "립우가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    detailImg: "images/mst-pro3.jpeg", 
+    bio: "사토가 도전하고 싶은 무대 컨셉은 뭐든지!" 
   },
   { 
     id: 4, 
     name: "崔立于", 
     profileImgs: [
-      "images/liyu32.jpeg", 
-      "images/liyu33.jpeg"
+      "images/mst7.jpeg", 
+      "images/mst8.jpeg"
     ], 
-    detailImg: "images/liyu-pro4.jpeg", 
-    bio: "립우의 최대 강점은 얼굴!" 
+    detailImg: "images/mst-pro4.jpeg", 
+    bio: "사토의 최대 강점은 얼굴!" 
   },
   { 
     id: 5, 
-    name: "최립우", 
+    name: "마사토", 
     profileImgs: [
-      "images/liyu36.jpeg", 
-      "images/liyu37.jpeg", 
-      "images/liyu38.jpeg"
+      "images/mst9.jpeg", 
+      "images/mst10.jpeg"
     ], 
-    detailImg: "images/liyu-pro5.jpeg", 
+    detailImg: "images/mst-pro5.jpeg", 
     bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
   },
   { 
