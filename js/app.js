@@ -3,10 +3,10 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/mst1.jpeg", 
-      "images/mst2.jpeg"
+      "images/woo1.jpeg", 
+      "images/woo2.jpeg"
     ], 
-    detailImg: "images/mst-pro1.jpeg", 
+    detailImg: "images/woo-pro1.jpeg", 
     bio: "사토가 생각한 사토의 이미지는 내 생각보다 귀여운 듯" 
   },
   { 
