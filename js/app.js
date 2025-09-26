@@ -78,7 +78,7 @@ const members = [
       "images/woo13.jpeg"
     ], 
     detailImg: "images/woo-pro8.jpeg", 
-    bio: "미래 파이널을 앞둔 사토에게 한마디 너 데뷔하면 나한테 밥사라." 
+    bio: "미래 파이널을 앞둔 건우에게 한마디 너 데뷔하면 나한테 밥사라." 
   },
   { 
     id: 9, 
